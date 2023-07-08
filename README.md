@@ -11,6 +11,7 @@
 - Machine Learning <br>
 - Technical Leadership <br>
 - Research and Development <br>
+- Chair at <a href="https://nsusc.acm.org/executive-body.html" > North South University ACM Student Chapter </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
