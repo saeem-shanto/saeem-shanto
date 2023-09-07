@@ -11,8 +11,8 @@
 - Machine Learning <br>
 - Technical Leadership <br>
 - Research and Development <br>
-- Chair at <a href="https://nsusc.acm.org/executive-body.html" > North South University ACM Student Chapter </a>
-- Graduate Teaching Assistant at <a href="http://ece.northsouth.edu/" > Electrical and Computer Engineering Department, North South University. </a>
+- Chair at <a href="https://nsusc.acm.org/executive-body.html" > North South University ACM Student Chapter </a> </br>
+- Graduate Teaching Assistant at <a href="http://ece.northsouth.edu/" > Electrical and Computer Engineering Department, North South University. </a> </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 60px; height: 60px;margin-right:5px"/>
