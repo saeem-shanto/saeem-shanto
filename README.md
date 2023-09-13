@@ -43,13 +43,17 @@
       </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeem-shanto&color=green" alt="saeem-shanto" /> </p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeem-shanto&layout=compact" alt="tahsin-mayeesha" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeem-shanto&layout=compact" alt="Saeem-shanto" /></p>
 
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeem-shanto&show_icons=true" alt="tahsin-mayeesha" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeem-shanto&show_icons=true" alt="Saeem-Shanto" /></p>
 
 
 <h3 align="left">How to reach me 📫</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/saeem-shanto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saeem Hossain linkedin" height="30" width="40" /></a>
-<a href="mailto:saeem.shanto@northsouth.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="faizullah linkedin" height="30" width="40" /></a>
+<a href="mailto:saeem.shanto@northsouth.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Saeem linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SaeemHossainShant0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saeeem linkedin" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Saeeem linkedin" height="30" width="40" /></a>
+
+
