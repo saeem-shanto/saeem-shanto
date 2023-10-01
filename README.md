@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Saeem Hossain Shanto</h1>
 <br/>
-- 🔭 Check out my papers in my google scholar profile
+- 🔭 Check out my papers in my Google Scholar profile
 <br/>
 <h3 align="left">I’m looking to collaborate on 💞️</h3>
 - Software Engineering <br>
