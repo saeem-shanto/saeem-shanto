@@ -4,7 +4,7 @@
 **saeem-shanto/saeem-shanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm Mohammad Saeem Hossain Shanto</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Saeem Hossain Shanto</h1>
 <br/>
 - 🔭 Check out my papers in my Google Scholar profile
 <br/>
