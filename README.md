@@ -6,20 +6,28 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Saeem Hossain Shanto</h1>
 <br/>
-- 🔭 Check out my papers in my  <a href="https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Saeeem linkedin" height="30" width="40" /> Google Scholar profile </a>
+- 🔭 Check out my papers in my  <a href="https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Saeem linkedin" height="30" width="40" /> Google Scholar profile </a>
 <br/>
 <h3 align="left">I’m looking to collaborate on 💞️</h3>
 - Software Engineering <br>
 - Machine Learning <br>
 - Technical Leadership <br>
 - Research and Development <br>
-- Chair at <a href="https://nsusc.acm.org/executive-body.html" > North South University ACM Student Chapter </a> </br>
-- Graduate Teaching Assistant at <a href="http://ece.northsouth.edu/" > Electrical and Computer Engineering Department, North South University. </a> </br>
+- Research Associate <a href="https://indianresearchacademy.org" > 
+Indian Research Academy,Delhi, India - 110017 <img src="https://media.licdn.com/dms/image/D4D0BAQGwOtCw-hziSw/company-logo_200_200/0/1700489576202?e=2147483647&v=beta&t=XNfXX8b48YyZW0uCFSsJrHl0LBbvFWzhVABJmGUPMCE" alt="python" style="width: 30px; height: 20px;margin-right:0px"/></a></br>
+- Intern at <a href="https://www.reddotdigitalit.com" > RedDot Digital Limited
+      <img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-1/441158963_761587986087141_1360210302792813505_n.jpg?stp=c10.10.180.180a_dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=neryALAns5AQ7kNvgGnE5f5&_nc_ht=scontent.fdac8-1.fna&oh=00_AYAuPToez_Gy0PhK9Wuf4dXLpDRzI4IlHSfcz49_ngnhNw&oe=66B8627F" alt="python" style="width: 20px; height: 20px;margin-right:0px"/>
+</a> </br>
+- Former Chair at <a href="https://nsusc.acm.org/chapter-officer" > North South University ACM Student Chapter
+<img src="https://nsusc.acm.org/_next/static/media/ACM_Logo_22.647e1ef6.png" alt="python" style="width: 20px; height: 20px;margin-right:1px"/>
+</a> </br>
+- Former Graduate Teaching Assistant at <a href="http://ece.northsouth.edu/" > Electrical and Computer Engineering Department, North South University. <img src="https://seeklogo.com/images/N/north-south-university-logo-0CA3A4611D-seeklogo.com.png" alt="python" style="width: 20px; height: 20px;margin-right:1px"/></a> </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 60px; height: 60px;margin-right:5px"/>
       <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png" alt="Java" style="width: 50px; height: 80px; margin-right:5px"/>
       <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="Django" style="width: 60px; height: 60px; margin-right:5px" />
+      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" style="width: 60px; height: 60px; margin-right:5px" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="ReactJs" style="width: 50px; height: 50px; margin-right:5px"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 60px; height: 80px; margin-right:5px"/>
       <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" alt="Bitbucket" style="width: 60px; height: 60px; margin-right:5px"/>
