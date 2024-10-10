@@ -16,7 +16,7 @@
 - Research Associate <a href="https://indianresearchacademy.org" > 
 Indian Research Academy,Delhi, India - 110017 <img src="https://media.licdn.com/dms/image/D4D0BAQGwOtCw-hziSw/company-logo_200_200/0/1700489576202?e=2147483647&v=beta&t=XNfXX8b48YyZW0uCFSsJrHl0LBbvFWzhVABJmGUPMCE" alt="python" style="width: 30px; height: 20px;margin-right:0px"/></a></br>
 - Intern at <a href="https://www.reddotdigitalit.com" > RedDot Digital Limited
-      <img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-1/441158963_761587986087141_1360210302792813505_n.jpg?stp=c10.10.180.180a_dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=neryALAns5AQ7kNvgGnE5f5&_nc_ht=scontent.fdac8-1.fna&oh=00_AYAuPToez_Gy0PhK9Wuf4dXLpDRzI4IlHSfcz49_ngnhNw&oe=66B8627F" alt="python" style="width: 20px; height: 20px;margin-right:0px"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTExLhO44QIaiGkrN9nV-PjZ-0k8Oy9p-JXFw&s" alt="python" style="width: 20px; height: 20px;margin-right:0px"/>
 </a> </br>
 - Former Chair at <a href="https://nsusc.acm.org/chapter-officer" > North South University ACM Student Chapter
 <img src="https://nsusc.acm.org/_next/static/media/ACM_Logo_22.647e1ef6.png" alt="python" style="width: 20px; height: 20px;margin-right:1px"/>
