@@ -28,7 +28,7 @@ Indian Research Academy,Delhi, India - 110017 <img src="https://media.licdn.com/
       <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png" alt="Java" style="width: 50px; height: 80px; margin-right:5px"/>
       <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="Django" style="width: 60px; height: 60px; margin-right:5px" />
       <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" style="width: 60px; height: 60px; margin-right:5px" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="ReactJs" style="width: 50px; height: 50px; margin-right:5px"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1280px-React_Logo_SVG.svg.png" alt="ReactJs" style="width: 50px; height: 50px; margin-right:5px"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 60px; height: 80px; margin-right:5px"/>
       <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" alt="Bitbucket" style="width: 60px; height: 60px; margin-right:5px"/>
       <img src="https://github.githubassets.com/favicons/favicon.svg" alt="Github" style="width: 60px; height: 60px; margin-right:5px"/>
