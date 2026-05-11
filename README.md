@@ -59,9 +59,9 @@ Indian Research Academy,Delhi, India - 110017 <img src="https://media.licdn.com/
 
 <h3 align="left">How to reach me 📫</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/saeem-shanto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saeem Hossain linkedin" height="30" width="40" /></a>
-<a href="mailto:saeem.shanto@northsouth.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Saeem linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/SaeemHossainShant0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saeeem linkedin" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Saeeem linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saeem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saeem Hossain linkedin" height="30" width="40" /></a>
+<a href="mailto:saeem.shanto@northsouth.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SaeemHossainShant0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saeeem facebook" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Saeeem scholar" height="30" width="40" /></a>
 
 
