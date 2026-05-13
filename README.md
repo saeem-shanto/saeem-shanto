@@ -92,13 +92,13 @@ I'm open to collaborating on:
 ---
 
 ## GitHub Stats
-
+<!-- Profile stats widget via GitHub WidgetBox — reliable, actively maintained -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeem-shanto&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeem-shanto&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=saeem-shanto&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Stats" />
+  </a>
 </p>
-
+<!-- Activity graph — no setup needed, works immediately -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saeem-shanto&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeem-shanto&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
