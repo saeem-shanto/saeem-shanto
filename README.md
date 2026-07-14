@@ -1,23 +1,47 @@
+<p align="center">
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:FilePath/Animated_Flag_of_Bangladesh.gif"
+    alt="Waving Bangladesh Flag"
+    width="90"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:FilePath/Animated-Flag-Australia.gif"
+    alt="Waving Australia Flag"
+    width="90"
+  />
+</p>
+
+<p align="center">
+  <strong>Bangladesh  &nbsp; | &nbsp; Australia </strong>
+</p>
 <h1 align="center">Muhammad Saeem Hossain Shanto</h1>
 
 <p align="center">
-  <em>Software Engineer · ML Researcher · Technical Leader</em>
+  <em>Software Engineer • Machine Learning Researcher • Technical Leader</em>
 </p>
+
+<h3 align="center">Find me on</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saeem/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:saeem.shanto@northsouth.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
-  <a href="https://www.facebook.com/SaeemHossainShant0/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  &nbsp;
+   <a href="https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Google%20Scholar-View%20Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"
+      alt="Google Scholar Profile"
+    />
   </a>
 </p>
+<p align="center">
+  <a href="https://saeem.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeem-shanto&color=0A66C2&style=for-the-badge" alt="Profile Views" />
@@ -27,7 +51,16 @@
 
 ## About Me
 
-I am a software engineer and researcher with a focus on **Machine Learning**, **Software Engineering**, and **Technical Leadership**. I am passionate about advancing research and building robust systems that create real-world impact.
+I'm a Software Engineer and Machine Learning Researcher currently based in Australia. My interests include AI, Federated Learning, NLP, Software Engineering, and building scalable applications that solve real-world problems. I'm passionate about transforming research into production-ready software through modern technologies such as Flutter, Django, PostgreSQL, Supabase, and cloud-native architectures.
+
+---
+
+## 🚀 Currently
+
+- 🎓 Pursuing a Master's in Artificial Intelligence & Machine Learning
+- 📱 Building **Inventro**, a Flutter & Django inventory management platform
+- 🤖 Exploring Machine Learning, Federated Learning, NLP, and scalable AI systems
+- 🌱 Learning cloud-native backend development, WebSockets, and distributed architectures
 
 ---
 
@@ -40,22 +73,31 @@ I am a software engineer and researcher with a focus on **Machine Learning**, **
 
 ---
 
-## Research
+## 🤝 Let's Collaborate
 
-📄 View my publications on [Google Scholar](https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en)
+I'm always interested in collaborating on:
+
+- 📱 Flutter & Cross-platform Mobile Development
+- ⚙️ Django, REST APIs & Backend Engineering
+- 🤖 Machine Learning & Artificial Intelligence
+- 🧠 Federated Learning & Natural Language Processing
+- 🔬 Research & Scientific Publications
+- 🌍 Open Source Software
+
+---
+
+## 🏆 Highlights
+
+- 📄 Published AI & Machine Learning Researcher
+- 🎓 Master's Student in Artificial Intelligence & Machine Learning
+- 🏛 Former Chair, North South University ACM Student Chapter
+- 🔬 Former Research Associate, Indian Research Academy
+- 💼 Former Software Engineering Intern at RedDot Digital
+- 📱 Flutter & Django Full-Stack Developer
+- 🌍 Passionate Open Source Contributor
 
 ---
 
-## Collaboration Interests
-
-I'm open to collaborating on:
-
-- Software Engineering
-- Machine Learning
-- Technical Leadership
-- Research & Development
-
----
 
 ## Tech Stack
 
@@ -88,6 +130,12 @@ I'm open to collaborating on:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
 </p>
+
+---
+
+## Research
+
+📄 View my publications on [Google Scholar](https://scholar.google.com/citations?user=8UZFm5gAAAAJ&hl=en)
 
 ---
 
