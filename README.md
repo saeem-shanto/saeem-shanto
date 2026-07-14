@@ -46,23 +46,6 @@
     />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/saeem-shanto" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Profile"
-    />
-  </a>
-  &nbsp;
-  <a href="mailto:saeem.shanto@student.adelaide.edu.au">
-    <img
-      src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Send Email"
-    />
-  </a>
-</p>
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=saeem-shanto&color=0A66C2&style=for-the-badge"
